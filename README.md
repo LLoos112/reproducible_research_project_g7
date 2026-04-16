@@ -3,6 +3,8 @@ This repository contains the work for the Reproducible Research Project complete
 
 The aim of this project is to utilise customer payment-related variables to predict Customer Lifetime Value through a machine learning approach, implemented in R instead of Python. In addition to reproducing the original analysis, we seek to refine and improve the original models to achieve better performance and more robust results.
 
+The original project dataset and python notebook are published in this repository
+
 Our group consists of four members, and the project tasks will be divided among team members to ensure efficient collaboration and the successful delivery of fully reproducible results.
 
 

@@ -7,7 +7,7 @@ Our group consists of four members, and the project tasks will be divided among 
 
 
 Group members:
-  Weidong Bai;
-  Marta Traczyk;
-  Zuzanna Zofia Herniczek;
-  Anna Kędzierska-Głodek
+  * Weidong Bai;
+  * Marta Traczyk;
+  * Zuzanna Zofia Herniczek;
+  * Anna Kędzierska-Głodek

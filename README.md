@@ -14,9 +14,9 @@ to ensure efficient collaboration and the successful delivery of fully reproduci
 
 Group members:
   * Weidong Bai;
-  * Marta Traczyk;
   * Zuzanna Herniczek;
   * Anna Kędzierska-Głodek
+  * Marta Traczyk;
 
 ## Project Structure
 

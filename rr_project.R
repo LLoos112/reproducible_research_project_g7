@@ -92,3 +92,13 @@ writeLines(gitignore_text, ".gitignore")
 # =========================
 
 cat('Project structure created successfully!')
+
+
+
+
+system("git add .")
+
+system('git commit -m "Created R project structure and workflow scripts"')
+
+system("git push")
+

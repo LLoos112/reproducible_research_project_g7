@@ -22,19 +22,19 @@ Group members:
 
 - data/raw/               : raw datasets
 - data/processed/         : processed datasets
+- figures/                : plots and visualizations
 - scripts/                : R scripts
 - outputs/                : model outputs/results
-- figures/                : plots and visualizations
 
 ## Workflow Order
 
 ## Workflow Order
 
-1. 01_data_pipeline.R
-2. 02_tree_models.R
-3. 03_boosting_nn_models.R
-4. 04_model_comparison.R
-5. 05_final_report.R
+1. data_pipeline.R
+2. tree_models.R
+3. boosting_nn_models.R
+4. model_comparison.R
+5. final_report.R
 
 ## Team Responsibilities
 

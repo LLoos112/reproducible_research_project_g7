@@ -1,7 +1,7 @@
 
 # reproducible_research_project_g7
 
-]This is the repository of Reproducible Research for Group 7.
+This is the repository of Reproducible Research for Group 7.
 This repository contains the work for the Reproducible Research Project completed by Group 7.
 
 The aim of this project is to utilise customer payment-related variables to predict 
@@ -14,10 +14,10 @@ to ensure efficient collaboration and the successful delivery of fully reproduci
 
 
 Group members:
-  Weidong Bai;
-  Marta Traczyk;
-  Zuzanna Zofia Herniczek;
-  Anna Kędzierska-Głodek
+  * Weidong Bai;
+  * Marta Traczyk;
+  * Zuzanna Herniczek;
+  * Anna Kędzierska-Głodek
 
 ## Project Structure
 
